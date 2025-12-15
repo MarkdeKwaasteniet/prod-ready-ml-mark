@@ -6,7 +6,7 @@ import pandas as pd
 
 
 def load_data(path: str) -> pd.DataFrame:
-    """Load the data and convert the column names.
+    """Load the data and convert the column names, you don't like this
 
     Parameters
     ----------
