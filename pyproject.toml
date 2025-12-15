@@ -43,5 +43,6 @@ exclude = [
     ".pytest_cache",
     ".pytype",
     ".ruff_cache",
-     ".venv"
+     ".venv",
+     "notebooks"
      ]
