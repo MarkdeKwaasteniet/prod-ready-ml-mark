@@ -47,3 +47,6 @@ exclude = [
      ".venv",
      "notebooks"
      ]
+
+[tool.mypy]
+disallow_untyped_decorators = false

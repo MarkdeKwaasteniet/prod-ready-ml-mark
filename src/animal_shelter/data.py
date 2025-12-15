@@ -1,4 +1,4 @@
-"""Data loading functions for the animal shelter project. For Mark"""
+"""Data loading functions for the animal shelter project."""
 
 import re
 
@@ -6,7 +6,7 @@ import pandas as pd
 
 
 def load_data(path: str) -> pd.DataFrame:
-    """Load the data and convert the column names, you don't like this
+    """Load the data and convert the column names.
 
     Parameters
     ----------
