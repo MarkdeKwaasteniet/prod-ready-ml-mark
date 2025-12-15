@@ -1,4 +1,4 @@
-"""Data loading functions for the animal shelter project. For Mark"""
+"""Data loading functions for the animal shelter project. For Mark."""
 
 import re
 
