@@ -2,5 +2,5 @@
 
 
 def main() -> None:
-    """Serve function for animal_shelter package."""
+    """Play with that fucking ball, you stupid cat."""
     print("Hello from animal-shelter!")
